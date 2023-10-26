@@ -18,8 +18,8 @@ const Hero = () => {
         <h1>Hey, I'm Jesal Thakur 👋</h1>
         <p>
           I am a novice software developer, currently sharpening my skills in
-          creating frontend web applications using ReactJS and NextJS. My future
-          goals are centered around expanding my knowledge to encompass backend
+          creating Frontend web applications using ReactJS and NextJS. My future
+          goals are centered around expanding my knowledge to encompass Backend
           development and becoming good in Typescript.
         </p>
         <div className="social-icons">
