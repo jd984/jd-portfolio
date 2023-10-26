@@ -1,11 +1,13 @@
 import React from "react";
 import { AiFillHtml5 } from "react-icons/ai";
 import { FaCss3Alt } from "react-icons/fa";
+import { TbBrandNextjs } from "react-icons/tb";
 import {
   BiLogoJava,
   BiLogoJavascript,
   BiLogoReact,
   BiLogoNodejs,
+  BiLogoTypescript,
 } from "react-icons/bi";
 
 const Skills = () => {
@@ -36,6 +38,14 @@ const Skills = () => {
         <div className="skill-card java">
           <BiLogoJava style={{ fontSize: "1.5rem" }} />
           <p>Java</p>
+        </div>
+        <div className="skill-card next">
+          <TbBrandNextjs style={{ fontSize: "1.5rem" }} />
+          <p>NextJS</p>
+        </div>
+        <div className="skill-card type">
+          <BiLogoTypescript style={{ fontSize: "1.5rem" }} />
+          <p>Typescript</p>
         </div>
       </div>
     </div>

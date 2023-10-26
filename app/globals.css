@@ -274,7 +274,15 @@ hr {
 }
 
 .skills-container .grid-skills .css:hover {
-  background-color: #264de4;
+  background-color: skyblue;
+}
+
+.skills-container .grid-skills .next:hover {
+  background-color: grey;
+}
+
+.skills-container .grid-skills .type:hover {
+  background-color: navy;
 }
 
 .skills-container .grid-skills .js:hover {
@@ -282,7 +290,7 @@ hr {
 }
 
 .skills-container .grid-skills .react:hover {
-  background-color: #61dafb;
+  background-color: blue;
 }
 
 .skills-container .grid-skills .node:hover {
