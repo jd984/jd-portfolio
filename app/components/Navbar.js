@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="logo">
         <Link href="/">Jesal</Link>
       </div>
-      <a href="./Jesal.pdf" target="_blank" className="cta-btn">
+      <a href="./Jesal-Resume.pdf" target="_blank" className="cta-btn">
         Resume
       </a>
     </nav>
